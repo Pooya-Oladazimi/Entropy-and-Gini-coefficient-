@@ -1,5 +1,4 @@
 # Entropy-and-Gini-coefficient-
-This is an school project which contains two programs.
 First,campare system Entropy and average users Entropy in a sample of tweets:
   They provided a sample of 424k tweets. I calculate system Entropy and average users Entropy base on memes(I considered every unique hashtag as a meme). I notice that users attention for memes has limit and does not related to system Entropy. It means it does not matter how many memes are in system, our users can only pay attention to few of them.
   
